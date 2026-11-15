@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-14T19:29:11.568508-07:00",
+ "updated_at": "2026-11-14T19:34:09.260291-07:00",
  "balance": "19.8917",
  "combos": [
   {
@@ -49,7 +49,7 @@
      "side": "NO",
      "label": "FAU @ Tulsa under 72.5",
      "game": "FAUTLSA",
-     "pct": 58.5,
+     "pct": 56.0,
      "status": "live",
      "won": null,
      "score": {
@@ -66,7 +66,7 @@
      "side": "NO",
      "label": "North Carolina under 20.5 pts",
      "game": "LOUUNC",
-     "pct": 69.0,
+     "pct": 67.0,
      "status": "live",
      "won": null,
      "score": {
@@ -75,7 +75,7 @@
       "home": "North Carolina Tar Heels",
       "home_pts": "7",
       "state": "in",
-      "desc": "1:14 - 3rd"
+      "desc": "15:00 - 4th"
      }
     },
     {
@@ -83,7 +83,7 @@
      "side": "NO",
      "label": "Louisville @ North Carolina under 52.5",
      "game": "LOUUNC",
-     "pct": 91.0,
+     "pct": 91.5,
      "status": "live",
      "won": null,
      "score": {
@@ -92,7 +92,7 @@
       "home": "North Carolina Tar Heels",
       "home_pts": "7",
       "state": "in",
-      "desc": "1:14 - 3rd"
+      "desc": "15:00 - 4th"
      }
     },
     {
@@ -134,16 +134,16 @@
      "side": "YES",
      "label": "South Alabama to win by 10.5+",
      "game": "TROYUSA",
-     "pct": 68.5,
+     "pct": 52.5,
      "status": "live",
      "won": null,
      "score": {
       "away": "Troy Trojans",
-      "away_pts": "13",
+      "away_pts": "14",
       "home": "South Alabama Jaguars",
       "home_pts": "27",
       "state": "in",
-      "desc": "14:11 - 4th"
+      "desc": "12:41 - 4th"
      }
     },
     {
@@ -168,7 +168,7 @@
      "side": "NO",
      "label": "New Mexico under 30.5 pts",
      "game": "UNLVUNM",
-     "pct": 52.5,
+     "pct": 57.0,
      "status": "live",
      "won": null,
      "score": {
@@ -177,7 +177,7 @@
       "home": "New Mexico Lobos",
       "home_pts": "14",
       "state": "in",
-      "desc": "8:52 - 3rd"
+      "desc": "12:38 - 3rd"
      }
     },
     {
@@ -219,7 +219,7 @@
      "side": "NO",
      "label": "UTSA under 37.5 pts",
      "game": "UNTUTSA",
-     "pct": 46.5,
+     "pct": 47.0,
      "status": "live",
      "won": null,
      "score": {
@@ -228,7 +228,7 @@
       "home": "UTSA Roadrunners",
       "home_pts": "7",
       "state": "in",
-      "desc": "9:33 - 1st"
+      "desc": "8:46 - 1st"
      }
     },
     {
@@ -236,7 +236,7 @@
      "side": "NO",
      "label": "North Texas @ UTSA under 79.5",
      "game": "UNTUTSA",
-     "pct": 60.5,
+     "pct": 58.5,
      "status": "live",
      "won": null,
      "score": {
@@ -245,7 +245,7 @@
       "home": "UTSA Roadrunners",
       "home_pts": "7",
       "state": "in",
-      "desc": "9:33 - 1st"
+      "desc": "8:46 - 1st"
      }
     },
     {
@@ -253,7 +253,7 @@
      "side": "YES",
      "label": "Wyoming over 27.5 pts",
      "game": "WYOUTEP",
-     "pct": 35.5,
+     "pct": 37.0,
      "status": "pre",
      "won": null,
      "score": {
@@ -270,7 +270,7 @@
      "side": "YES",
      "label": "Wyoming @ UTEP over 43.5",
      "game": "WYOUTEP",
-     "pct": 43.5,
+     "pct": 44.5,
      "status": "pre",
      "won": null,
      "score": {
