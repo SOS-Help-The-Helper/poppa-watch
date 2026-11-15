@@ -1,0 +1,536 @@
+{
+ "updated_at": "2026-11-14T18:38:15.233906-07:00",
+ "balance": "29.8039",
+ "combos": [
+  {
+   "name": "THE 19",
+   "market": "KXMVECROSSCATEGORY-S2026GPM5BZ2G4B2OD3ZK-NSKHLXGTX",
+   "contracts": 20000.0,
+   "cost": 8.56,
+   "max": 20000.0,
+   "value": 8.0,
+   "legs": [
+    {
+     "ticker": "KXNCAAFTEAMTOTAL-26NOV14STANVT-VT24",
+     "side": "NO",
+     "label": "Virginia Tech under 23.5 pts",
+     "game": "STANVT",
+     "pct": 32.5,
+     "status": "live",
+     "won": null,
+     "score": {
+      "away": "Stanford Cardinal",
+      "away_pts": "14",
+      "home": "Virginia Tech Hokies",
+      "home_pts": "0",
+      "state": "in",
+      "desc": "9:06 - 2nd"
+     }
+    },
+    {
+     "ticker": "KXNCAAFSPREAD-26NOV14STANVT-STAN4",
+     "side": "YES",
+     "label": "Stanford to win by 3.5+",
+     "game": "STANVT",
+     "pct": 33.5,
+     "status": "live",
+     "won": null,
+     "score": {
+      "away": "Stanford Cardinal",
+      "away_pts": "14",
+      "home": "Virginia Tech Hokies",
+      "home_pts": "0",
+      "state": "in",
+      "desc": "9:06 - 2nd"
+     }
+    },
+    {
+     "ticker": "KXNCAAFTOTAL-26NOV14FAUTLSA-73",
+     "side": "NO",
+     "label": "FAU @ Tulsa under 72.5",
+     "game": "FAUTLSA",
+     "pct": 46.5,
+     "status": "live",
+     "won": null,
+     "score": {
+      "away": "Florida Atlantic Owls",
+      "away_pts": "7",
+      "home": "Tulsa Golden Hurricane",
+      "home_pts": "21",
+      "state": "in",
+      "desc": "7:57 - 2nd"
+     }
+    },
+    {
+     "ticker": "KXNCAAFTEAMTOTAL-26NOV14LOUUNC-UNC21",
+     "side": "NO",
+     "label": "North Carolina under 20.5 pts",
+     "game": "LOUUNC",
+     "pct": 47.5,
+     "status": "live",
+     "won": null,
+     "score": {
+      "away": "Louisville Cardinals",
+      "away_pts": "13",
+      "home": "North Carolina Tar Heels",
+      "home_pts": "7",
+      "state": "in",
+      "desc": "End of 2nd"
+     }
+    },
+    {
+     "ticker": "KXNCAAFTOTAL-26NOV14LOUUNC-53",
+     "side": "NO",
+     "label": "Louisville @ North Carolina under 52.5",
+     "game": "LOUUNC",
+     "pct": 70.5,
+     "status": "live",
+     "won": null,
+     "score": {
+      "away": "Louisville Cardinals",
+      "away_pts": "13",
+      "home": "North Carolina Tar Heels",
+      "home_pts": "7",
+      "state": "in",
+      "desc": "End of 2nd"
+     }
+    },
+    {
+     "ticker": "KXNCAAFTEAMTOTAL-26NOV14SCARARK-ARK20",
+     "side": "NO",
+     "label": "Arkansas under 19.5 pts",
+     "game": "SCARARK",
+     "pct": 54.5,
+     "status": "live",
+     "won": null,
+     "score": {
+      "away": "South Carolina Gamecocks",
+      "away_pts": "0",
+      "home": "Arkansas Razorbacks",
+      "home_pts": "3",
+      "state": "in",
+      "desc": "12:31 - 2nd"
+     }
+    },
+    {
+     "ticker": "KXNCAAFSPREAD-26NOV14SCARARK-SCAR8",
+     "side": "YES",
+     "label": "South Carolina to win by 7.5+",
+     "game": "SCARARK",
+     "pct": 27.5,
+     "status": "live",
+     "won": null,
+     "score": {
+      "away": "South Carolina Gamecocks",
+      "away_pts": "0",
+      "home": "Arkansas Razorbacks",
+      "home_pts": "3",
+      "state": "in",
+      "desc": "12:31 - 2nd"
+     }
+    },
+    {
+     "ticker": "KXNCAAFSPREAD-26NOV14TROYUSA-USA11",
+     "side": "YES",
+     "label": "South Alabama to win by 10.5+",
+     "game": "TROYUSA",
+     "pct": 39.5,
+     "status": "live",
+     "won": null,
+     "score": {
+      "away": "Troy Trojans",
+      "away_pts": "7",
+      "home": "South Alabama Jaguars",
+      "home_pts": "17",
+      "state": "in",
+      "desc": "Halftime"
+     }
+    },
+    {
+     "ticker": "KXNCAAFTEAMTOTAL-26NOV14TEXLSU-TEX28",
+     "side": "YES",
+     "label": "Texas over 27.5 pts",
+     "game": "TEXLSU",
+     "pct": 28.5,
+     "status": "live",
+     "won": null,
+     "score": {
+      "away": "Texas Longhorns",
+      "away_pts": "7",
+      "home": "LSU Tigers",
+      "home_pts": "7",
+      "state": "in",
+      "desc": "12:00 - 2nd"
+     }
+    },
+    {
+     "ticker": "KXNCAAFTEAMTOTAL-26NOV14UNLVUNM-UNM31",
+     "side": "NO",
+     "label": "New Mexico under 30.5 pts",
+     "game": "UNLVUNM",
+     "pct": 31.5,
+     "status": "live",
+     "won": null,
+     "score": {
+      "away": "UNLV Rebels",
+      "away_pts": "0",
+      "home": "New Mexico Lobos",
+      "home_pts": "14",
+      "state": "in",
+      "desc": "7:50 - 2nd"
+     }
+    },
+    {
+     "ticker": "KXNCAAFTEAMTOTAL-26NOV14TTUOKST-OKST38",
+     "side": "NO",
+     "label": "Oklahoma St under 37.5 pts",
+     "game": "TTUOKST",
+     "pct": 41.5,
+     "status": "pre",
+     "won": null,
+     "score": {
+      "away": "Texas Tech Red Raiders",
+      "away_pts": "0",
+      "home": "Oklahoma State Cowboys",
+      "home_pts": "0",
+      "state": "pre",
+      "desc": "11/14 - 9:30 PM EST"
+     }
+    },
+    {
+     "ticker": "KXNCAAFTOTAL-26NOV14TTUOKST-71",
+     "side": "NO",
+     "label": "Texas Tech @ Oklahoma St under 70.5",
+     "game": "TTUOKST",
+     "pct": 40.5,
+     "status": "pre",
+     "won": null,
+     "score": {
+      "away": "Texas Tech Red Raiders",
+      "away_pts": "0",
+      "home": "Oklahoma State Cowboys",
+      "home_pts": "0",
+      "state": "pre",
+      "desc": "11/14 - 9:30 PM EST"
+     }
+    },
+    {
+     "ticker": "KXNCAAFTEAMTOTAL-26NOV14UNTUTSA-UTSA38",
+     "side": "NO",
+     "label": "UTSA under 37.5 pts",
+     "game": "UNTUTSA",
+     "pct": 49.5,
+     "status": "pre",
+     "won": null,
+     "score": {
+      "away": "North Texas Mean Green",
+      "away_pts": "0",
+      "home": "UTSA Roadrunners",
+      "home_pts": "0",
+      "state": "pre",
+      "desc": "11/14 - 9:00 PM EST"
+     }
+    },
+    {
+     "ticker": "KXNCAAFTOTAL-26NOV14UNTUTSA-80",
+     "side": "NO",
+     "label": "North Texas @ UTSA under 79.5",
+     "game": "UNTUTSA",
+     "pct": 57.5,
+     "status": "pre",
+     "won": null,
+     "score": {
+      "away": "North Texas Mean Green",
+      "away_pts": "0",
+      "home": "UTSA Roadrunners",
+      "home_pts": "0",
+      "state": "pre",
+      "desc": "11/14 - 9:00 PM EST"
+     }
+    },
+    {
+     "ticker": "KXNCAAFTEAMTOTAL-26NOV14WYOUTEP-WYO28",
+     "side": "YES",
+     "label": "Wyoming over 27.5 pts",
+     "game": "WYOUTEP",
+     "pct": 35.5,
+     "status": "pre",
+     "won": null,
+     "score": {
+      "away": "Wyoming Cowboys",
+      "away_pts": "0",
+      "home": "UTEP Miners",
+      "home_pts": "0",
+      "state": "pre",
+      "desc": "11/14 - 10:00 PM EST"
+     }
+    },
+    {
+     "ticker": "KXNCAAFTOTAL-26NOV14WYOUTEP-44",
+     "side": "YES",
+     "label": "Wyoming @ UTEP over 43.5",
+     "game": "WYOUTEP",
+     "pct": 42.5,
+     "status": "pre",
+     "won": null,
+     "score": {
+      "away": "Wyoming Cowboys",
+      "away_pts": "0",
+      "home": "UTEP Miners",
+      "home_pts": "0",
+      "state": "pre",
+      "desc": "11/14 - 10:00 PM EST"
+     }
+    },
+    {
+     "ticker": "KXNCAAFTEAMTOTAL-26NOV14CSUWSU-WSU38",
+     "side": "NO",
+     "label": "Washington St under 37.5 pts",
+     "game": "CSUWSU",
+     "pct": 50.5,
+     "status": "pre",
+     "won": null,
+     "score": {
+      "away": "Colorado State Rams",
+      "away_pts": "0",
+      "home": "Washington State Cougars",
+      "home_pts": "0",
+      "state": "pre",
+      "desc": "11/14 - 10:45 PM EST"
+     }
+    },
+    {
+     "ticker": "KXNCAAFSPREAD-26NOV14CSUWSU-CSU4",
+     "side": "YES",
+     "label": "Colorado St to win by 3.5+",
+     "game": "CSUWSU",
+     "pct": 17.5,
+     "status": "pre",
+     "won": null,
+     "score": {
+      "away": "Colorado State Rams",
+      "away_pts": "0",
+      "home": "Washington State Cougars",
+      "home_pts": "0",
+      "state": "pre",
+      "desc": "11/14 - 10:45 PM EST"
+     }
+    },
+    {
+     "ticker": "KXNCAAFTOTAL-26NOV14USUSDSU-46",
+     "side": "YES",
+     "label": "Utah St @ San Diego St over 45.5",
+     "game": "USUSDSU",
+     "pct": 41.5,
+     "status": "pre",
+     "won": null,
+     "score": {
+      "away": "Utah State Aggies",
+      "away_pts": "0",
+      "home": "San Diego State Aztecs",
+      "home_pts": "0",
+      "state": "pre",
+      "desc": "11/14 - 9:30 PM EST"
+     }
+    }
+   ]
+  },
+  {
+   "name": "THE LIVE 11",
+   "market": "KXMVECROSSCATEGORY-S2026FB2NCGAAC6UQ463G-FV7HONULM",
+   "contracts": 10000.0,
+   "cost": 14.98,
+   "max": 10000.0,
+   "value": 14.0,
+   "legs": [
+    {
+     "ticker": "KXNCAAFSPREAD-26NOV14ASUUCF-ASU10",
+     "side": "YES",
+     "label": "Arizona St to win by 9.5+",
+     "game": "ASUUCF",
+     "pct": 86.5,
+     "status": "live",
+     "won": null,
+     "score": {
+      "away": "Arizona State Sun Devils",
+      "away_pts": "26",
+      "home": "UCF Knights",
+      "home_pts": "7",
+      "state": "in",
+      "desc": "4:37 - 4th"
+     }
+    },
+    {
+     "ticker": "KXNCAAFTEAMTOTAL-26NOV14ASUUCF-ASU31",
+     "side": "YES",
+     "label": "Arizona St over 30.5 pts",
+     "game": "ASUUCF",
+     "pct": 42.0,
+     "status": "live",
+     "won": null,
+     "score": {
+      "away": "Arizona State Sun Devils",
+      "away_pts": "26",
+      "home": "UCF Knights",
+      "home_pts": "7",
+      "state": "in",
+      "desc": "4:37 - 4th"
+     }
+    },
+    {
+     "ticker": "KXNCAAFSPREAD-26NOV14CSUWSU-CSU4",
+     "side": "YES",
+     "label": "Colorado St to win by 3.5+",
+     "game": "CSUWSU",
+     "pct": 17.5,
+     "status": "pre",
+     "won": null,
+     "score": {
+      "away": "Colorado State Rams",
+      "away_pts": "0",
+      "home": "Washington State Cougars",
+      "home_pts": "0",
+      "state": "pre",
+      "desc": "11/14 - 10:45 PM EST"
+     }
+    },
+    {
+     "ticker": "KXNCAAFSPREAD-26NOV14LOUUNC-UNC5",
+     "side": "NO",
+     "label": "Louisville +4.5 (No on UNC by 4.5+)",
+     "game": "LOUUNC",
+     "pct": 86.5,
+     "status": "live",
+     "won": null,
+     "score": {
+      "away": "Louisville Cardinals",
+      "away_pts": "13",
+      "home": "North Carolina Tar Heels",
+      "home_pts": "7",
+      "state": "in",
+      "desc": "End of 2nd"
+     }
+    },
+    {
+     "ticker": "KXNCAAFTEAMTOTAL-26NOV14FAUTLSA-TLSA38",
+     "side": "NO",
+     "label": "Tulsa under 37.5 pts",
+     "game": "FAUTLSA",
+     "pct": 14.5,
+     "status": "live",
+     "won": null,
+     "score": {
+      "away": "Florida Atlantic Owls",
+      "away_pts": "7",
+      "home": "Tulsa Golden Hurricane",
+      "home_pts": "21",
+      "state": "in",
+      "desc": "7:57 - 2nd"
+     }
+    },
+    {
+     "ticker": "KXNCAAFTOTAL-26NOV14FAUTLSA-73",
+     "side": "NO",
+     "label": "FAU @ Tulsa under 72.5",
+     "game": "FAUTLSA",
+     "pct": 46.5,
+     "status": "live",
+     "won": null,
+     "score": {
+      "away": "Florida Atlantic Owls",
+      "away_pts": "7",
+      "home": "Tulsa Golden Hurricane",
+      "home_pts": "21",
+      "state": "in",
+      "desc": "7:57 - 2nd"
+     }
+    },
+    {
+     "ticker": "KXNCAAFTEAMTOTAL-26NOV14FLAUK-FLA17",
+     "side": "NO",
+     "label": "Florida under 16.5 pts",
+     "game": "FLAUK",
+     "pct": 31.5,
+     "status": "live",
+     "won": null,
+     "score": {
+      "away": "Florida Gators",
+      "away_pts": "10",
+      "home": "Kentucky Wildcats",
+      "home_pts": "14",
+      "state": "in",
+      "desc": "7:20 - 3rd"
+     }
+    },
+    {
+     "ticker": "KXNCAAFTEAMTOTAL-26NOV14MINNPSU-MINN14",
+     "side": "YES",
+     "label": "Minnesota over 13.5 pts",
+     "game": "MINNPSU",
+     "pct": 16.5,
+     "status": "live",
+     "won": null,
+     "score": {
+      "away": "Minnesota Golden Gophers",
+      "away_pts": "0",
+      "home": "Penn State Nittany Lions",
+      "home_pts": "28",
+      "state": "in",
+      "desc": "End of 2nd"
+     }
+    },
+    {
+     "ticker": "KXNCAAFTOTAL-26NOV14MINNPSU-46",
+     "side": "YES",
+     "label": "Minnesota @ Penn St over 45.5",
+     "game": "MINNPSU",
+     "pct": 51.5,
+     "status": "live",
+     "won": null,
+     "score": {
+      "away": "Minnesota Golden Gophers",
+      "away_pts": "0",
+      "home": "Penn State Nittany Lions",
+      "home_pts": "28",
+      "state": "in",
+      "desc": "End of 2nd"
+     }
+    },
+    {
+     "ticker": "KXNCAAFTEAMTOTAL-26NOV14ORSTBSU-ORST28",
+     "side": "YES",
+     "label": "Oregon St over 27.5 pts",
+     "game": "ORSTBSU",
+     "pct": 81.5,
+     "status": "live",
+     "won": null,
+     "score": {
+      "away": "Oregon State Beavers",
+      "away_pts": "27",
+      "home": "Boise State Broncos",
+      "home_pts": "32",
+      "state": "in",
+      "desc": "5:33 - 3rd"
+     }
+    },
+    {
+     "ticker": "KXNCAAFTEAMTOTAL-26NOV14PURIOWA-PUR14",
+     "side": "YES",
+     "label": "Purdue over 13.5 pts",
+     "game": "PURIOWA",
+     "pct": 33.5,
+     "status": "live",
+     "won": null,
+     "score": {
+      "away": "Purdue Boilermakers",
+      "away_pts": "0",
+      "home": "Iowa Hawkeyes",
+      "home_pts": "14",
+      "state": "in",
+      "desc": "4:25 - 2nd"
+     }
+    }
+   ]
+  }
+ ]
+}
