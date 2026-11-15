@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-14T20:04:10.162694-07:00",
+ "updated_at": "2026-11-14T20:09:10.741313-07:00",
  "balance": "19.8917",
  "combos": [
   {
@@ -15,7 +15,7 @@
      "side": "NO",
      "label": "Virginia Tech under 23.5 pts",
      "game": "STANVT",
-     "pct": 27.5,
+     "pct": 42.0,
      "status": "live",
      "won": null,
      "score": {
@@ -24,7 +24,7 @@
       "home": "Virginia Tech Hokies",
       "home_pts": "14",
       "state": "in",
-      "desc": "5:07 - 3rd"
+      "desc": "0:47 - 3rd"
      }
     },
     {
@@ -32,7 +32,7 @@
      "side": "YES",
      "label": "Stanford to win by 3.5+",
      "game": "STANVT",
-     "pct": 45.0,
+     "pct": 56.0,
      "status": "live",
      "won": null,
      "score": {
@@ -41,7 +41,7 @@
       "home": "Virginia Tech Hokies",
       "home_pts": "14",
       "state": "in",
-      "desc": "5:07 - 3rd"
+      "desc": "0:47 - 3rd"
      }
     },
     {
@@ -49,7 +49,7 @@
      "side": "NO",
      "label": "FAU @ Tulsa under 72.5",
      "game": "FAUTLSA",
-     "pct": 60.0,
+     "pct": 66.5,
      "status": "live",
      "won": null,
      "score": {
@@ -58,7 +58,7 @@
       "home": "Tulsa Golden Hurricane",
       "home_pts": "31",
       "state": "in",
-      "desc": "5:25 - 3rd"
+      "desc": "4:13 - 3rd"
      }
     },
     {
@@ -66,16 +66,16 @@
      "side": "NO",
      "label": "North Carolina under 20.5 pts",
      "game": "LOUUNC",
-     "pct": 95.0,
+     "pct": 66.0,
      "status": "live",
      "won": null,
      "score": {
       "away": "Louisville Cardinals",
       "away_pts": "16",
       "home": "North Carolina Tar Heels",
-      "home_pts": "7",
+      "home_pts": "14",
       "state": "in",
-      "desc": "5:32 - 4th"
+      "desc": "3:43 - 4th"
      }
     },
     {
@@ -83,16 +83,16 @@
      "side": "NO",
      "label": "Louisville @ North Carolina under 52.5",
      "game": "LOUUNC",
-     "pct": 97.0,
+     "pct": 98.5,
      "status": "live",
      "won": null,
      "score": {
       "away": "Louisville Cardinals",
       "away_pts": "16",
       "home": "North Carolina Tar Heels",
-      "home_pts": "7",
+      "home_pts": "14",
       "state": "in",
-      "desc": "5:32 - 4th"
+      "desc": "3:43 - 4th"
      }
     },
     {
@@ -100,7 +100,7 @@
      "side": "NO",
      "label": "Arkansas under 19.5 pts",
      "game": "SCARARK",
-     "pct": 16.5,
+     "pct": 29.5,
      "status": "live",
      "won": null,
      "score": {
@@ -109,7 +109,7 @@
       "home": "Arkansas Razorbacks",
       "home_pts": "17",
       "state": "in",
-      "desc": "7:15 - 3rd"
+      "desc": "6:39 - 3rd"
      }
     },
     {
@@ -126,7 +126,7 @@
       "home": "Arkansas Razorbacks",
       "home_pts": "17",
       "state": "in",
-      "desc": "7:15 - 3rd"
+      "desc": "6:39 - 3rd"
      }
     },
     {
@@ -134,7 +134,7 @@
      "side": "YES",
      "label": "South Alabama to win by 10.5+",
      "game": "TROYUSA",
-     "pct": 92.0,
+     "pct": 93.0,
      "status": "live",
      "won": null,
      "score": {
@@ -143,7 +143,7 @@
       "home": "South Alabama Jaguars",
       "home_pts": "27",
       "state": "in",
-      "desc": "2:16 - 4th"
+      "desc": "2:00 - 4th"
      }
     },
     {
@@ -151,16 +151,16 @@
      "side": "YES",
      "label": "Texas over 27.5 pts",
      "game": "TEXLSU",
-     "pct": 23.5,
+     "pct": 10.5,
      "status": "live",
      "won": null,
      "score": {
       "away": "Texas Longhorns",
       "away_pts": "10",
       "home": "LSU Tigers",
-      "home_pts": "14",
+      "home_pts": "21",
       "state": "in",
-      "desc": "7:09 - 3rd"
+      "desc": "5:52 - 3rd"
      }
     },
     {
@@ -168,7 +168,7 @@
      "side": "NO",
      "label": "New Mexico under 30.5 pts",
      "game": "UNLVUNM",
-     "pct": 78.5,
+     "pct": 78.0,
      "status": "live",
      "won": null,
      "score": {
@@ -177,7 +177,7 @@
       "home": "New Mexico Lobos",
       "home_pts": "17",
       "state": "in",
-      "desc": "1:02 - 3rd"
+      "desc": "14:29 - 4th"
      }
     },
     {
@@ -185,7 +185,7 @@
      "side": "NO",
      "label": "Oklahoma St under 37.5 pts",
      "game": "TTUOKST",
-     "pct": 50.0,
+     "pct": 62.0,
      "status": "live",
      "won": null,
      "score": {
@@ -194,7 +194,7 @@
       "home": "Oklahoma State Cowboys",
       "home_pts": "0",
       "state": "in",
-      "desc": "8:43 - 1st"
+      "desc": "4:57 - 1st"
      }
     },
     {
@@ -202,7 +202,7 @@
      "side": "NO",
      "label": "Texas Tech @ Oklahoma St under 70.5",
      "game": "TTUOKST",
-     "pct": 25.5,
+     "pct": 36.5,
      "status": "live",
      "won": null,
      "score": {
@@ -211,7 +211,7 @@
       "home": "Oklahoma State Cowboys",
       "home_pts": "0",
       "state": "in",
-      "desc": "8:43 - 1st"
+      "desc": "4:57 - 1st"
      }
     },
     {
@@ -219,16 +219,16 @@
      "side": "NO",
      "label": "UTSA under 37.5 pts",
      "game": "UNTUTSA",
-     "pct": 69.0,
+     "pct": 50.0,
      "status": "live",
      "won": null,
      "score": {
       "away": "North Texas Mean Green",
       "away_pts": "3",
       "home": "UTSA Roadrunners",
-      "home_pts": "7",
+      "home_pts": "14",
       "state": "in",
-      "desc": "12:08 - 2nd"
+      "desc": "10:32 - 2nd"
      }
     },
     {
@@ -236,16 +236,16 @@
      "side": "NO",
      "label": "North Texas @ UTSA under 79.5",
      "game": "UNTUTSA",
-     "pct": 83.0,
+     "pct": 77.0,
      "status": "live",
      "won": null,
      "score": {
       "away": "North Texas Mean Green",
       "away_pts": "3",
       "home": "UTSA Roadrunners",
-      "home_pts": "7",
+      "home_pts": "14",
       "state": "in",
-      "desc": "12:08 - 2nd"
+      "desc": "10:32 - 2nd"
      }
     },
     {
@@ -253,7 +253,7 @@
      "side": "YES",
      "label": "Wyoming over 27.5 pts",
      "game": "WYOUTEP",
-     "pct": 38.0,
+     "pct": 38.5,
      "status": "pre",
      "won": null,
      "score": {
@@ -270,7 +270,7 @@
      "side": "YES",
      "label": "Wyoming @ UTEP over 43.5",
      "game": "WYOUTEP",
-     "pct": 44.5,
+     "pct": 43.5,
      "status": "pre",
      "won": null,
      "score": {
@@ -321,7 +321,7 @@
      "side": "YES",
      "label": "Utah St @ San Diego St over 45.5",
      "game": "USUSDSU",
-     "pct": 49.5,
+     "pct": 51.5,
      "status": "live",
      "won": null,
      "score": {
@@ -330,7 +330,7 @@
       "home": "San Diego State Aztecs",
       "home_pts": "0",
       "state": "in",
-      "desc": "8:21 - 1st"
+      "desc": "4:47 - 1st"
      }
     }
    ]
