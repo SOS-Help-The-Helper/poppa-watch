@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-14T18:49:20.029516-07:00",
+ "updated_at": "2026-11-14T18:54:11.727054-07:00",
  "balance": "29.8039",
  "combos": [
   {
@@ -15,7 +15,7 @@
      "side": "NO",
      "label": "Virginia Tech under 23.5 pts",
      "game": "STANVT",
-     "pct": 32.5,
+     "pct": 24.5,
      "status": "live",
      "won": null,
      "score": {
@@ -24,7 +24,7 @@
       "home": "Virginia Tech Hokies",
       "home_pts": "0",
       "state": "in",
-      "desc": "6:13 - 2nd"
+      "desc": "4:04 - 2nd"
      }
     },
     {
@@ -32,7 +32,7 @@
      "side": "YES",
      "label": "Stanford to win by 3.5+",
      "game": "STANVT",
-     "pct": 51.5,
+     "pct": 49.5,
      "status": "live",
      "won": null,
      "score": {
@@ -41,7 +41,7 @@
       "home": "Virginia Tech Hokies",
       "home_pts": "0",
       "state": "in",
-      "desc": "6:13 - 2nd"
+      "desc": "4:04 - 2nd"
      }
     },
     {
@@ -49,7 +49,7 @@
      "side": "NO",
      "label": "FAU @ Tulsa under 72.5",
      "game": "FAUTLSA",
-     "pct": 34.5,
+     "pct": 39.0,
      "status": "live",
      "won": null,
      "score": {
@@ -58,7 +58,7 @@
       "home": "Tulsa Golden Hurricane",
       "home_pts": "21",
       "state": "in",
-      "desc": "4:26 - 2nd"
+      "desc": "2:45 - 2nd"
      }
     },
     {
@@ -66,7 +66,7 @@
      "side": "NO",
      "label": "North Carolina under 20.5 pts",
      "game": "LOUUNC",
-     "pct": 47.0,
+     "pct": 43.5,
      "status": "live",
      "won": null,
      "score": {
@@ -75,7 +75,7 @@
       "home": "North Carolina Tar Heels",
       "home_pts": "7",
       "state": "in",
-      "desc": "End of 2nd"
+      "desc": "15:00 - 3rd"
      }
     },
     {
@@ -83,7 +83,7 @@
      "side": "NO",
      "label": "Louisville @ North Carolina under 52.5",
      "game": "LOUUNC",
-     "pct": 70.5,
+     "pct": 70.0,
      "status": "live",
      "won": null,
      "score": {
@@ -92,7 +92,7 @@
       "home": "North Carolina Tar Heels",
       "home_pts": "7",
       "state": "in",
-      "desc": "End of 2nd"
+      "desc": "15:00 - 3rd"
      }
     },
     {
@@ -100,7 +100,7 @@
      "side": "NO",
      "label": "Arkansas under 19.5 pts",
      "game": "SCARARK",
-     "pct": 59.5,
+     "pct": 55.5,
      "status": "live",
      "won": null,
      "score": {
@@ -109,7 +109,7 @@
       "home": "Arkansas Razorbacks",
       "home_pts": "3",
       "state": "in",
-      "desc": "9:19 - 2nd"
+      "desc": "5:25 - 2nd"
      }
     },
     {
@@ -117,7 +117,7 @@
      "side": "YES",
      "label": "South Carolina to win by 7.5+",
      "game": "SCARARK",
-     "pct": 23.5,
+     "pct": 18.5,
      "status": "live",
      "won": null,
      "score": {
@@ -126,7 +126,7 @@
       "home": "Arkansas Razorbacks",
       "home_pts": "3",
       "state": "in",
-      "desc": "9:19 - 2nd"
+      "desc": "5:25 - 2nd"
      }
     },
     {
@@ -134,16 +134,16 @@
      "side": "YES",
      "label": "South Alabama to win by 10.5+",
      "game": "TROYUSA",
-     "pct": 48.5,
+     "pct": 52.5,
      "status": "live",
      "won": null,
      "score": {
       "away": "Troy Trojans",
       "away_pts": "7",
       "home": "South Alabama Jaguars",
-      "home_pts": "17",
+      "home_pts": "20",
       "state": "in",
-      "desc": "13:49 - 3rd"
+      "desc": "10:52 - 3rd"
      }
     },
     {
@@ -151,7 +151,7 @@
      "side": "YES",
      "label": "Texas over 27.5 pts",
      "game": "TEXLSU",
-     "pct": 26.5,
+     "pct": 23.5,
      "status": "live",
      "won": null,
      "score": {
@@ -160,7 +160,7 @@
       "home": "LSU Tigers",
       "home_pts": "14",
       "state": "in",
-      "desc": "9:17 - 2nd"
+      "desc": "7:42 - 2nd"
      }
     },
     {
@@ -168,7 +168,7 @@
      "side": "NO",
      "label": "New Mexico under 30.5 pts",
      "game": "UNLVUNM",
-     "pct": 35.5,
+     "pct": 46.5,
      "status": "live",
      "won": null,
      "score": {
@@ -177,7 +177,7 @@
       "home": "New Mexico Lobos",
       "home_pts": "14",
       "state": "in",
-      "desc": "4:12 - 2nd"
+      "desc": "2:00 - 2nd"
      }
     },
     {
@@ -348,7 +348,7 @@
      "side": "YES",
      "label": "Arizona St to win by 9.5+",
      "game": "ASUUCF",
-     "pct": 98.0,
+     "pct": 99.5,
      "status": "live",
      "won": null,
      "score": {
@@ -357,7 +357,7 @@
       "home": "UCF Knights",
       "home_pts": "13",
       "state": "in",
-      "desc": "2:00 - 4th"
+      "desc": "1:50 - 4th"
      }
     },
     {
@@ -365,7 +365,7 @@
      "side": "YES",
      "label": "Arizona St over 30.5 pts",
      "game": "ASUUCF",
-     "pct": 35.0,
+     "pct": 25.0,
      "status": "live",
      "won": null,
      "score": {
@@ -374,7 +374,7 @@
       "home": "UCF Knights",
       "home_pts": "13",
       "state": "in",
-      "desc": "2:00 - 4th"
+      "desc": "1:50 - 4th"
      }
     },
     {
@@ -399,7 +399,7 @@
      "side": "NO",
      "label": "Louisville +4.5 (No on UNC by 4.5+)",
      "game": "LOUUNC",
-     "pct": 86.5,
+     "pct": 87.5,
      "status": "live",
      "won": null,
      "score": {
@@ -408,7 +408,7 @@
       "home": "North Carolina Tar Heels",
       "home_pts": "7",
       "state": "in",
-      "desc": "End of 2nd"
+      "desc": "15:00 - 3rd"
      }
     },
     {
@@ -416,7 +416,7 @@
      "side": "NO",
      "label": "Tulsa under 37.5 pts",
      "game": "FAUTLSA",
-     "pct": 18.5,
+     "pct": 21.5,
      "status": "live",
      "won": null,
      "score": {
@@ -425,7 +425,7 @@
       "home": "Tulsa Golden Hurricane",
       "home_pts": "21",
       "state": "in",
-      "desc": "4:26 - 2nd"
+      "desc": "2:45 - 2nd"
      }
     },
     {
@@ -433,7 +433,7 @@
      "side": "NO",
      "label": "FAU @ Tulsa under 72.5",
      "game": "FAUTLSA",
-     "pct": 34.5,
+     "pct": 39.5,
      "status": "live",
      "won": null,
      "score": {
@@ -442,7 +442,7 @@
       "home": "Tulsa Golden Hurricane",
       "home_pts": "21",
       "state": "in",
-      "desc": "4:26 - 2nd"
+      "desc": "2:45 - 2nd"
      }
     },
     {
@@ -450,7 +450,7 @@
      "side": "NO",
      "label": "Florida under 16.5 pts",
      "game": "FLAUK",
-     "pct": 30.5,
+     "pct": 33.5,
      "status": "live",
      "won": null,
      "score": {
@@ -459,7 +459,7 @@
       "home": "Kentucky Wildcats",
       "home_pts": "14",
       "state": "in",
-      "desc": "1:38 - 3rd"
+      "desc": "15:00 - 3rd"
      }
     },
     {
@@ -501,16 +501,16 @@
      "side": "YES",
      "label": "Oregon St over 27.5 pts",
      "game": "ORSTBSU",
-     "pct": 72.5,
+     "pct": 65.5,
      "status": "live",
      "won": null,
      "score": {
       "away": "Oregon State Beavers",
       "away_pts": "27",
       "home": "Boise State Broncos",
-      "home_pts": "32",
+      "home_pts": "38",
       "state": "in",
-      "desc": "0:01 - 3rd"
+      "desc": "14:13 - 4th"
      }
     },
     {
@@ -518,7 +518,7 @@
      "side": "YES",
      "label": "Purdue over 13.5 pts",
      "game": "PURIOWA",
-     "pct": 58.5,
+     "pct": 64.5,
      "status": "live",
      "won": null,
      "score": {
@@ -527,7 +527,7 @@
       "home": "Iowa Hawkeyes",
       "home_pts": "14",
       "state": "in",
-      "desc": "1:11 - 2nd"
+      "desc": "0:19 - 2nd"
      }
     }
    ]
