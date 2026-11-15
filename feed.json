@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-14T19:19:08.782257-07:00",
+ "updated_at": "2026-11-14T19:19:34.972211-07:00",
  "balance": "19.8917",
  "combos": [
   {
@@ -66,7 +66,7 @@
      "side": "NO",
      "label": "North Carolina under 20.5 pts",
      "game": "LOUUNC",
-     "pct": 66.5,
+     "pct": 48.5,
      "status": "live",
      "won": null,
      "score": {
@@ -75,7 +75,7 @@
       "home": "North Carolina Tar Heels",
       "home_pts": "7",
       "state": "in",
-      "desc": "6:50 - 3rd"
+      "desc": "6:31 - 3rd"
      }
     },
     {
@@ -92,7 +92,7 @@
       "home": "North Carolina Tar Heels",
       "home_pts": "7",
       "state": "in",
-      "desc": "6:50 - 3rd"
+      "desc": "6:31 - 3rd"
      }
     },
     {
@@ -134,7 +134,7 @@
      "side": "YES",
      "label": "South Alabama to win by 10.5+",
      "game": "TROYUSA",
-     "pct": 79.0,
+     "pct": 79.5,
      "status": "live",
      "won": null,
      "score": {
@@ -177,7 +177,7 @@
       "home": "New Mexico Lobos",
       "home_pts": "14",
       "state": "in",
-      "desc": "8:52 - 3rd"
+      "desc": "15:00 - 3rd"
      }
     },
     {
@@ -219,7 +219,7 @@
      "side": "NO",
      "label": "UTSA under 37.5 pts",
      "game": "UNTUTSA",
-     "pct": 54.5,
+     "pct": 48.5,
      "status": "live",
      "won": null,
      "score": {
@@ -228,7 +228,7 @@
       "home": "UTSA Roadrunners",
       "home_pts": "0",
       "state": "in",
-      "desc": "11:26 - 1st"
+      "desc": "11:08 - 1st"
      }
     },
     {
@@ -236,7 +236,7 @@
      "side": "NO",
      "label": "North Texas @ UTSA under 79.5",
      "game": "UNTUTSA",
-     "pct": 67.5,
+     "pct": 66.5,
      "status": "live",
      "won": null,
      "score": {
@@ -245,7 +245,7 @@
       "home": "UTSA Roadrunners",
       "home_pts": "0",
       "state": "in",
-      "desc": "11:26 - 1st"
+      "desc": "11:08 - 1st"
      }
     },
     {
