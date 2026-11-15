@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-14T18:38:15.233906-07:00",
+ "updated_at": "2026-11-14T18:44:10.605416-07:00",
  "balance": "29.8039",
  "combos": [
   {
@@ -15,16 +15,16 @@
      "side": "NO",
      "label": "Virginia Tech under 23.5 pts",
      "game": "STANVT",
-     "pct": 32.5,
+     "pct": 36.5,
      "status": "live",
      "won": null,
      "score": {
       "away": "Stanford Cardinal",
-      "away_pts": "14",
+      "away_pts": "21",
       "home": "Virginia Tech Hokies",
       "home_pts": "0",
       "state": "in",
-      "desc": "9:06 - 2nd"
+      "desc": "7:40 - 2nd"
      }
     },
     {
@@ -32,16 +32,16 @@
      "side": "YES",
      "label": "Stanford to win by 3.5+",
      "game": "STANVT",
-     "pct": 33.5,
+     "pct": 54.5,
      "status": "live",
      "won": null,
      "score": {
       "away": "Stanford Cardinal",
-      "away_pts": "14",
+      "away_pts": "21",
       "home": "Virginia Tech Hokies",
       "home_pts": "0",
       "state": "in",
-      "desc": "9:06 - 2nd"
+      "desc": "7:40 - 2nd"
      }
     },
     {
@@ -49,7 +49,7 @@
      "side": "NO",
      "label": "FAU @ Tulsa under 72.5",
      "game": "FAUTLSA",
-     "pct": 46.5,
+     "pct": 48.0,
      "status": "live",
      "won": null,
      "score": {
@@ -58,7 +58,7 @@
       "home": "Tulsa Golden Hurricane",
       "home_pts": "21",
       "state": "in",
-      "desc": "7:57 - 2nd"
+      "desc": "5:59 - 2nd"
      }
     },
     {
@@ -66,7 +66,7 @@
      "side": "NO",
      "label": "North Carolina under 20.5 pts",
      "game": "LOUUNC",
-     "pct": 47.5,
+     "pct": 47.0,
      "status": "live",
      "won": null,
      "score": {
@@ -100,7 +100,7 @@
      "side": "NO",
      "label": "Arkansas under 19.5 pts",
      "game": "SCARARK",
-     "pct": 54.5,
+     "pct": 51.5,
      "status": "live",
      "won": null,
      "score": {
@@ -109,7 +109,7 @@
       "home": "Arkansas Razorbacks",
       "home_pts": "3",
       "state": "in",
-      "desc": "12:31 - 2nd"
+      "desc": "9:42 - 2nd"
      }
     },
     {
@@ -117,7 +117,7 @@
      "side": "YES",
      "label": "South Carolina to win by 7.5+",
      "game": "SCARARK",
-     "pct": 27.5,
+     "pct": 26.0,
      "status": "live",
      "won": null,
      "score": {
@@ -126,7 +126,7 @@
       "home": "Arkansas Razorbacks",
       "home_pts": "3",
       "state": "in",
-      "desc": "12:31 - 2nd"
+      "desc": "9:42 - 2nd"
      }
     },
     {
@@ -151,7 +151,7 @@
      "side": "YES",
      "label": "Texas over 27.5 pts",
      "game": "TEXLSU",
-     "pct": 28.5,
+     "pct": 33.5,
      "status": "live",
      "won": null,
      "score": {
@@ -160,7 +160,7 @@
       "home": "LSU Tigers",
       "home_pts": "7",
       "state": "in",
-      "desc": "12:00 - 2nd"
+      "desc": "10:42 - 2nd"
      }
     },
     {
@@ -168,7 +168,7 @@
      "side": "NO",
      "label": "New Mexico under 30.5 pts",
      "game": "UNLVUNM",
-     "pct": 31.5,
+     "pct": 35.0,
      "status": "live",
      "won": null,
      "score": {
@@ -177,7 +177,7 @@
       "home": "New Mexico Lobos",
       "home_pts": "14",
       "state": "in",
-      "desc": "7:50 - 2nd"
+      "desc": "6:58 - 2nd"
      }
     },
     {
@@ -348,7 +348,7 @@
      "side": "YES",
      "label": "Arizona St to win by 9.5+",
      "game": "ASUUCF",
-     "pct": 86.5,
+     "pct": 99.5,
      "status": "live",
      "won": null,
      "score": {
@@ -357,7 +357,7 @@
       "home": "UCF Knights",
       "home_pts": "7",
       "state": "in",
-      "desc": "4:37 - 4th"
+      "desc": "2:26 - 4th"
      }
     },
     {
@@ -365,7 +365,7 @@
      "side": "YES",
      "label": "Arizona St over 30.5 pts",
      "game": "ASUUCF",
-     "pct": 42.0,
+     "pct": 3.0,
      "status": "live",
      "won": null,
      "score": {
@@ -374,7 +374,7 @@
       "home": "UCF Knights",
       "home_pts": "7",
       "state": "in",
-      "desc": "4:37 - 4th"
+      "desc": "2:26 - 4th"
      }
     },
     {
@@ -416,7 +416,7 @@
      "side": "NO",
      "label": "Tulsa under 37.5 pts",
      "game": "FAUTLSA",
-     "pct": 14.5,
+     "pct": 18.5,
      "status": "live",
      "won": null,
      "score": {
@@ -425,7 +425,7 @@
       "home": "Tulsa Golden Hurricane",
       "home_pts": "21",
       "state": "in",
-      "desc": "7:57 - 2nd"
+      "desc": "5:59 - 2nd"
      }
     },
     {
@@ -433,7 +433,7 @@
      "side": "NO",
      "label": "FAU @ Tulsa under 72.5",
      "game": "FAUTLSA",
-     "pct": 46.5,
+     "pct": 48.0,
      "status": "live",
      "won": null,
      "score": {
@@ -442,7 +442,7 @@
       "home": "Tulsa Golden Hurricane",
       "home_pts": "21",
       "state": "in",
-      "desc": "7:57 - 2nd"
+      "desc": "5:59 - 2nd"
      }
     },
     {
@@ -450,16 +450,16 @@
      "side": "NO",
      "label": "Florida under 16.5 pts",
      "game": "FLAUK",
-     "pct": 31.5,
+     "pct": 35.0,
      "status": "live",
      "won": null,
      "score": {
       "away": "Florida Gators",
-      "away_pts": "10",
+      "away_pts": "13",
       "home": "Kentucky Wildcats",
       "home_pts": "14",
       "state": "in",
-      "desc": "7:20 - 3rd"
+      "desc": "3:16 - 3rd"
      }
     },
     {
@@ -476,7 +476,7 @@
       "home": "Penn State Nittany Lions",
       "home_pts": "28",
       "state": "in",
-      "desc": "End of 2nd"
+      "desc": "Halftime"
      }
     },
     {
@@ -493,7 +493,7 @@
       "home": "Penn State Nittany Lions",
       "home_pts": "28",
       "state": "in",
-      "desc": "End of 2nd"
+      "desc": "Halftime"
      }
     },
     {
@@ -501,7 +501,7 @@
      "side": "YES",
      "label": "Oregon St over 27.5 pts",
      "game": "ORSTBSU",
-     "pct": 81.5,
+     "pct": 75.5,
      "status": "live",
      "won": null,
      "score": {
@@ -510,7 +510,7 @@
       "home": "Boise State Broncos",
       "home_pts": "32",
       "state": "in",
-      "desc": "5:33 - 3rd"
+      "desc": "1:44 - 3rd"
      }
     },
     {
@@ -518,7 +518,7 @@
      "side": "YES",
      "label": "Purdue over 13.5 pts",
      "game": "PURIOWA",
-     "pct": 33.5,
+     "pct": 34.0,
      "status": "live",
      "won": null,
      "score": {
@@ -527,7 +527,7 @@
       "home": "Iowa Hawkeyes",
       "home_pts": "14",
       "state": "in",
-      "desc": "4:25 - 2nd"
+      "desc": "2:00 - 2nd"
      }
     }
    ]
