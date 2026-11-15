@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-14T19:49:19.804484-07:00",
+ "updated_at": "2026-11-14T19:54:13.557927-07:00",
  "balance": "19.8917",
  "combos": [
   {
@@ -15,7 +15,7 @@
      "side": "NO",
      "label": "Virginia Tech under 23.5 pts",
      "game": "STANVT",
-     "pct": 53.5,
+     "pct": 54.0,
      "status": "live",
      "won": null,
      "score": {
@@ -24,7 +24,7 @@
       "home": "Virginia Tech Hokies",
       "home_pts": "7",
       "state": "in",
-      "desc": "9:28 - 3rd"
+      "desc": "8:14 - 3rd"
      }
     },
     {
@@ -32,7 +32,7 @@
      "side": "YES",
      "label": "Stanford to win by 3.5+",
      "game": "STANVT",
-     "pct": 72.5,
+     "pct": 63.5,
      "status": "live",
      "won": null,
      "score": {
@@ -41,7 +41,7 @@
       "home": "Virginia Tech Hokies",
       "home_pts": "7",
       "state": "in",
-      "desc": "9:28 - 3rd"
+      "desc": "8:14 - 3rd"
      }
     },
     {
@@ -49,7 +49,7 @@
      "side": "NO",
      "label": "FAU @ Tulsa under 72.5",
      "game": "FAUTLSA",
-     "pct": 50.5,
+     "pct": 51.5,
      "status": "live",
      "won": null,
      "score": {
@@ -58,7 +58,7 @@
       "home": "Tulsa Golden Hurricane",
       "home_pts": "28",
       "state": "in",
-      "desc": "9:40 - 3rd"
+      "desc": "8:50 - 3rd"
      }
     },
     {
@@ -66,7 +66,7 @@
      "side": "NO",
      "label": "North Carolina under 20.5 pts",
      "game": "LOUUNC",
-     "pct": 91.5,
+     "pct": 75.5,
      "status": "live",
      "won": null,
      "score": {
@@ -75,7 +75,7 @@
       "home": "North Carolina Tar Heels",
       "home_pts": "7",
       "state": "in",
-      "desc": "9:33 - 4th"
+      "desc": "8:48 - 4th"
      }
     },
     {
@@ -83,7 +83,7 @@
      "side": "NO",
      "label": "Louisville @ North Carolina under 52.5",
      "game": "LOUUNC",
-     "pct": 98.5,
+     "pct": 97.5,
      "status": "live",
      "won": null,
      "score": {
@@ -92,7 +92,7 @@
       "home": "North Carolina Tar Heels",
       "home_pts": "7",
       "state": "in",
-      "desc": "9:33 - 4th"
+      "desc": "8:48 - 4th"
      }
     },
     {
@@ -100,7 +100,7 @@
      "side": "NO",
      "label": "Arkansas under 19.5 pts",
      "game": "SCARARK",
-     "pct": 5.5,
+     "pct": 15.5,
      "status": "live",
      "won": null,
      "score": {
@@ -109,7 +109,7 @@
       "home": "Arkansas Razorbacks",
       "home_pts": "17",
       "state": "in",
-      "desc": "12:41 - 3rd"
+      "desc": "11:17 - 3rd"
      }
     },
     {
@@ -126,7 +126,7 @@
       "home": "Arkansas Razorbacks",
       "home_pts": "17",
       "state": "in",
-      "desc": "12:41 - 3rd"
+      "desc": "11:17 - 3rd"
      }
     },
     {
@@ -134,7 +134,7 @@
      "side": "YES",
      "label": "South Alabama to win by 10.5+",
      "game": "TROYUSA",
-     "pct": 53.5,
+     "pct": 47.5,
      "status": "live",
      "won": null,
      "score": {
@@ -143,7 +143,7 @@
       "home": "South Alabama Jaguars",
       "home_pts": "27",
       "state": "in",
-      "desc": "6:35 - 4th"
+      "desc": "5:12 - 4th"
      }
     },
     {
@@ -160,7 +160,7 @@
       "home": "LSU Tigers",
       "home_pts": "14",
       "state": "in",
-      "desc": "13:41 - 3rd"
+      "desc": "10:11 - 3rd"
      }
     },
     {
@@ -168,7 +168,7 @@
      "side": "NO",
      "label": "New Mexico under 30.5 pts",
      "game": "UNLVUNM",
-     "pct": 68.5,
+     "pct": 63.5,
      "status": "live",
      "won": null,
      "score": {
@@ -177,7 +177,7 @@
       "home": "New Mexico Lobos",
       "home_pts": "17",
       "state": "in",
-      "desc": "5:23 - 3rd"
+      "desc": "3:50 - 3rd"
      }
     },
     {
@@ -185,16 +185,16 @@
      "side": "NO",
      "label": "Oklahoma St under 37.5 pts",
      "game": "TTUOKST",
-     "pct": 45.5,
+     "pct": 41.0,
      "status": "live",
      "won": null,
      "score": {
       "away": "Texas Tech Red Raiders",
-      "away_pts": "7",
+      "away_pts": "14",
       "home": "Oklahoma State Cowboys",
       "home_pts": "0",
       "state": "in",
-      "desc": "12:34 - 1st"
+      "desc": "12:02 - 1st"
      }
     },
     {
@@ -202,16 +202,16 @@
      "side": "NO",
      "label": "Texas Tech @ Oklahoma St under 70.5",
      "game": "TTUOKST",
-     "pct": 30.5,
+     "pct": 18.0,
      "status": "live",
      "won": null,
      "score": {
       "away": "Texas Tech Red Raiders",
-      "away_pts": "7",
+      "away_pts": "14",
       "home": "Oklahoma State Cowboys",
       "home_pts": "0",
       "state": "in",
-      "desc": "12:34 - 1st"
+      "desc": "12:02 - 1st"
      }
     },
     {
@@ -228,7 +228,7 @@
       "home": "UTSA Roadrunners",
       "home_pts": "7",
       "state": "in",
-      "desc": "0:10 - 1st"
+      "desc": "0:10 - 2nd"
      }
     },
     {
@@ -236,7 +236,7 @@
      "side": "NO",
      "label": "North Texas @ UTSA under 79.5",
      "game": "UNTUTSA",
-     "pct": 79.5,
+     "pct": 78.5,
      "status": "live",
      "won": null,
      "score": {
@@ -245,7 +245,7 @@
       "home": "UTSA Roadrunners",
       "home_pts": "7",
       "state": "in",
-      "desc": "0:10 - 1st"
+      "desc": "0:10 - 2nd"
      }
     },
     {
@@ -330,7 +330,7 @@
       "home": "San Diego State Aztecs",
       "home_pts": "0",
       "state": "in",
-      "desc": "13:34 - 1st"
+      "desc": "10:46 - 1st"
      }
     }
    ]
